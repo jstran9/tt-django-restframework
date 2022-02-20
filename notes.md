@@ -7,7 +7,8 @@
 
 # part 2 summary:
 
-    - f
+    - The Response object allows us to specify the content-type resulting in more flexible return types.
+        - This also returns header information rather than just the content body.
 
 # part 3 summary:
 
